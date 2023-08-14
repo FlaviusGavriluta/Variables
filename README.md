@@ -5,6 +5,7 @@ In the same line in which the variables are declared, immediately assign them di
 The values can be any <span style="color:red">integers</span>.
 
 **Requirements:**
+
 * Declare two int variables.
 * The variables must be named a and b.
 * The variables must be immediately assigned values.
